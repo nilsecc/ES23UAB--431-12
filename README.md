@@ -1,6 +1,7 @@
 # ES23UAB--431-12
-# 🍽️ QueMenges
 --- Projecte assignatura Enginyeria del Software ---
+
+# 🍽️ QueMenges
 
 ## Descripció del projecte
 QueMenges és una aplicació que permet als usuaris accedir a menús preparats per persones individuals, evitant plataformes tradicionals com Glovo o JustEat que només treballen amb grans cadenes de restaurants. La plataforma ofereix una experiència més personalitzada i propera, permetent als usuaris escollir entre una gran varietat de plats casolans en temps real.
