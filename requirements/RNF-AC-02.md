@@ -2,7 +2,7 @@
 ### ID: 
 RNF-AC-02
 ### Type/Category: 
-Requisit no funcional. Restriccions de disseny de limitacions hardware
+Requisit no funcional. Restriccions de disseny 
 ### Version: 
 1.0
 ### Title:
@@ -14,6 +14,5 @@ La interfície haurà de ser accessible en tres idiomes diferents: català, cast
 * [RNF-AC-03](./RNF-AC-03.md)
 
 ### Comments: 
-No s'hauria de restringir els idiomes disponibles.
 
 ---
