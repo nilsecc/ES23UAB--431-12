@@ -2,7 +2,7 @@
 ### ID: 
 RNF-AC-10
 ### Type/Category: 
-Requisit no funcional. Objectius de disseny OD
+Requisit no funcional. Objectius de disseny 
 ### Version: 
 1.0
 ### Title:
@@ -13,6 +13,5 @@ Finalment, la interfície haurà de ser amigable i *responsive*.
 
 
 ### Comments: 
-No s'hauria de restringir el producte final presentat a l'usuari.
 
 ---
