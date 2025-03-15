@@ -15,7 +15,7 @@ Accés amb comptes externs
 ### Description:  
 El sistema ha de permetre als usuaris iniciar sessió mitjançant serveis de tercers com Google o Outlook.  
 
-### Relations:  
-RF-1-3
+### Relations: 
+* [RF-1-3](./RF-1-3.md)
 
 ### Comments:    
