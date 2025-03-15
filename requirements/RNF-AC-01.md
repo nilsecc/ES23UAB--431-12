@@ -15,6 +15,5 @@ metropolitana de Barcelona.
 * [RNF-AC-03](./RNF-AC-03.md)
 
 ### Comments: 
-No s'hauria d'imposar un lloc de servei encara que sigui la fase inicial.
 
 ---
