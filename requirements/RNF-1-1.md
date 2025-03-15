@@ -1,7 +1,7 @@
 # Requirement
 
 ### ID: 
-RNF-1-7
+RNF-1-1
 
 ### Type/Category:  
 No funcional/Restricció de disseny-seguretat 
