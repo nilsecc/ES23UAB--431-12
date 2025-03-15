@@ -13,6 +13,5 @@ El color corporatiu serà el taronja.
 
 
 ### Comments: 
-No s'hauria de restringir el disseny de l'imatge de la marca.
 
 ---
