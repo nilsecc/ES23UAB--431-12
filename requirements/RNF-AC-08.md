@@ -13,6 +13,5 @@ El sistema tindrà un temps de resposta màxim de 5 mil·lisegons un cop realitz
 * [RNF-AC-07](./RNF-AC-07.md)
 
 ### Comments: 
-No s'hauria de restringir la velocitat del sistema.
 
 ---
