@@ -13,6 +13,5 @@ En una fase inicial l'aplicació hauria de suportar un màxim de 1000 usuaris co
 * [RNF-AC-08](./RNF-AC-08.md)
 
 ### Comments: 
-No s'hauria de restringir el número d'usuaris connectats alhora perquè són restriccions sobre l'execució de l'aplicació.
 
 ---
