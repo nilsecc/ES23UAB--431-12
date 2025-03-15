@@ -14,6 +14,5 @@ En l'aplicació es farà servir com a tipus de lletra **Calibri** tant per a enc
 
 
 ### Comments: 
-No s'hauria de restringir el tipus de font utilitzable.
 
 ---
