@@ -1,7 +1,7 @@
 # Requirement
 
 ### ID: 
-RNF-1-9
+RNF-1-3
 
 ### Type/Category:  
 No funcional/Interficies externes
@@ -19,4 +19,3 @@ El sistema ha de permetre als usuaris iniciar sessió mitjançant serveis de ter
 RF-1-3
 
 ### Comments:    
----
