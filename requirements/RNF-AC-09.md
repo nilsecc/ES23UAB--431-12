@@ -13,6 +13,5 @@ Es farà servir el protocol OpenVPN per a encriptació de dades.
 
 
 ### Comments: 
-No s'hauria de restringir el model d'encriptació de dades.
 
 ---
