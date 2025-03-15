@@ -14,6 +14,5 @@ L'aplicació tindrà dues versions: web i mòbil. En aquest últim cas, haurà d
 * [RNF-AC-02](./RNF-AC-02.md)
 
 ### Comments: 
-No s'hauria de restringir les plataformes disponibles ni els sistemes operatius.
 
 ---
