@@ -1,7 +1,7 @@
 # Requirement
 
 ### ID: 
-RNF-1-8
+RNF-1-2
 
 ### Type/Category:  
 No funcional/Restricció de disseny-seguretat
@@ -19,5 +19,3 @@ Les contrasenyes han de complir uns requisits mínims de seguretat. La contrasen
 RF-1-3, RF-1-4, RF-1-5
 
 ### Comments:  
-Es recomana xifrar les contrasenyes amb un algorisme segur.  
----
