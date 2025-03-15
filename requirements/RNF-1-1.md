@@ -19,5 +19,3 @@ El nom d'usuari haurà de tenir 5 caràcters com a mínim i ser únic.  El siste
 RF-1-3, RF-1-4, RF-1-5
 
 ### Comments:  
-S'haurien de posar sistemes de verificació de noms ja registrats i compliment de normes.  
----
