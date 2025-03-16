@@ -15,7 +15,8 @@ Ordenació per proximitat
 
 Els elements es mostraran ordenats segons la distància física entre el client i el cuiner.
 ### Relations:  
-_Llista dels ID dels requisits relacionats_ 
+
+
 ### Comments:  
 
 ---
