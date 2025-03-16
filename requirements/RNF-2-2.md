@@ -15,7 +15,8 @@ Limitació de comandes actives
 
 Un client no podrà tenir més de tres comandes actives a l'hora.
 ### Relations:  
-_Llista dels ID dels requisits relacionats_ 
+
+
 ### Comments:  
 
 ---
